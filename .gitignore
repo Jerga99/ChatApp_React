@@ -1,0 +1,12 @@
+# node.js
+#
+node_modules/
+npm-debug.log
+
+script1.js
+script2.js
+
+*.iml
+.idea
+
+src/firebase/index.jsx
